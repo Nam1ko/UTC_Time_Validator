@@ -11,6 +11,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# C:\Users\yuram\Downloads\TimeTest.txt
-# https://www.utctime.net/
